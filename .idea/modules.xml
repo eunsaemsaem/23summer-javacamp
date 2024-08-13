@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/23summer-java.iml" filepath="$PROJECT_DIR$/23summer-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro2-graphic/pro2-graphic.iml" filepath="$PROJECT_DIR$/pro2-graphic/pro2-graphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro3-login/pro3-login.iml" filepath="$PROJECT_DIR$/pro3-login/pro3-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro4-imageProcessing/pro4-imageProcessing.iml" filepath="$PROJECT_DIR$/pro4-imageProcessing/pro4-imageProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro5-othello/pro5-othello.iml" filepath="$PROJECT_DIR$/pro5-othello/pro5-othello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro6-network/pro6-network.iml" filepath="$PROJECT_DIR$/pro6-network/pro6-network.iml" />
+    </modules>
+  </component>
+</project>
